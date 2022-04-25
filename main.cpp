@@ -4,7 +4,7 @@
 #include <sys/time.h>
 
 const int size = 10000000;
-const int threshold = 2500000;
+const int threshold = 1000;
 
 double wtime()
 {
